@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
 <h3 align="center">A passionate flutter developer</h3>
-<img align='right' alt="Coding widht="300" src="https://www.appdev360.com/wp-content/uploads/2021/02/gif-app-development-on-android.gif">
+<img align='right' alt="Coding widht="500" src="https://www.appdev360.com/wp-content/uploads/2021/02/gif-app-development-on-android.gif">
 
 
 
