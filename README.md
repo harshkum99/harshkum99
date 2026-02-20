@@ -10,9 +10,9 @@
 
 - 💬 Ask me about **Flutter, DART, UI**
 
-- 💼 Previously
-     Wolverine Properties (https://apps.apple.com/in/app/wolverine-properties/id6468936905)
-     Tablon (https://mytablon.com/)
+- 💼 Previously <br/>
+     Wolverine Properties (https://apps.apple.com/in/app/wolverine-properties/id6468936905) <br/>
+     Tablon (https://mytablon.com/)<br/>
      Loudgrounds(https://loudgrounds-main.vercel.app/)
 
 - 📫 How to reach me **harshkum1899@gmail.com**
