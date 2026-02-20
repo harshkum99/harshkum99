@@ -4,11 +4,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkum99&label=Profile%20views&color=0e75b6&style=flat" alt="harshkum99" /> </p>
 
-- 🔭 I’m currently working on **Flutter Projects**
+- 🔭 Currently building **@Dappunk**
 
 - 🌱 I’m currently learning **Cross-platform(android/iOS) app development**
 
 - 💬 Ask me about **Flutter, DART, UI**
+
+- 💼 Previously
+     Wolverine Properties (https://apps.apple.com/in/app/wolverine-properties/id6468936905)
+     Tablon (https://mytablon.com/)
+     Loudgrounds(https://loudgrounds-main.vercel.app/)
 
 - 📫 How to reach me **harshkum1899@gmail.com**
 
