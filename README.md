@@ -6,8 +6,6 @@
 
 - 🔭 Currently building **@Dappunk**
 
-- 🌱 I’m currently learning **Cross-platform(android/iOS) app development**
-
 - 💬 Ask me about **Flutter, DART, UI**
 
 - 💼 Previously <br/>
